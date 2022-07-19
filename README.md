@@ -1,4 +1,4 @@
-# automatic-shopping
+# automated-shopping
 web automation example with selenium and python
 
 ## To run locally
